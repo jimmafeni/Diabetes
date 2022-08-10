@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fed077be-f58f-47a3-9408-ea05412c0a46" name="Changes" comment="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="prediction" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CqYYSrSI7v3dYSfLoApbhdYKdu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/psxjmma/OneDrive - The University of Nottingham/HDR Internship/Diabetes&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fed077be-f58f-47a3-9408-ea05412c0a46" name="Changes" comment="" />
+      <created>1659531629488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659531629488</updated>
+      <workItem from="1659531742499" duration="1768000" />
+      <workItem from="1659958858268" duration="757000" />
+      <workItem from="1659967125753" duration="229000" />
+      <workItem from="1659985471188" duration="899000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added code to split data into training and test set, with the test set being balanced for non-diabetes and pre-diabetes">
+      <created>1659542762857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659542762857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%">
+      <created>1659967287610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659967287610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%">
+      <created>1659967294563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659967294563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added code to split data into training and test set, with the test set being balanced for non-diabetes and pre-diabetes" />
+    <MESSAGE value="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%" />
+  </component>
+</project>
