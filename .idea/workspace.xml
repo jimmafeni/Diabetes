@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fed077be-f58f-47a3-9408-ea05412c0a46" name="Changes" comment="Added code to undersample the training data set, transform training and test datasets, and train a random forest model to produce a test accuracy of 70%" />
+    <list default="true" id="fed077be-f58f-47a3-9408-ea05412c0a46" name="Changes" comment="Added code to check duplicates in downsample_data.ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_2022_20_27__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_2022_20_27__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group 7/.ipynb_checkpoints/predict_prediabetes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Group 7/.ipynb_checkpoints/predict_prediabetes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group 7/predict_prediabetes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Group 7/predict_prediabetes.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -44,6 +52,7 @@
       <workItem from="1659958858268" duration="757000" />
       <workItem from="1659967125753" duration="229000" />
       <workItem from="1659985471188" duration="899000" />
+      <workItem from="1660561935292" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Added code to split data into training and test set, with the test set being balanced for non-diabetes and pre-diabetes">
       <created>1659542762857</created>
